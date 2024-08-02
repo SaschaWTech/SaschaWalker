@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Enjoy Cyber Security, I sure do! Hello there, I am Sascha Walker, I graduated with a Bachelors and my major was Cyber Operations, with a minor in Digital Forensics. I also achieved certification in CompTIA’s Security+ and Pentest+. I will be talking about my journey in cyber security, and sometimes any other miscellaneous topics that I think deserve interest. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you have a topic of interest that might interest me or you want to share? Fill out the [topic suggestion form](https://forms.gle/yTjrzjL92it9MvMQ8), or email me.
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Socials
+
+[Linkedin](https://www.linkedin.com/in/saschawalker/)
+
+[Github](https://github.com/SaschaWTech)
+
+
+## Email 
+
+saschawalker@sascha-walker.com
